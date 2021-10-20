@@ -2,7 +2,7 @@ baseURL: https://monica-gerber.netlify.app/
 languageCode: en-us
 paginate: 6
 theme: portio-hugo
-title: Portio
+title: Monica Gerber Plüss
 menu:
   main:
     - name: Home
@@ -11,62 +11,53 @@ menu:
     - name: About
       url: '#about'
       weight: 2
-    - name: Service
-      url: '#service'
-      weight: 3
-    - name: Work
+    - name: Projects
       url: '#portfolio'
       weight: 4
     - name: Resume
       url: '#resume'
       weight: 5
-    - name: Blog
+    - name: Publications
       url: '#blog'
       weight: 6
+    - name: Research lines
+      url: '#service'
+      weight: 7
     - name: Contact
       url: '#contact'
-      weight: 7
+      weight: 8
   sitemap:
     - name: About me
       url: about
       weight: 1
-    - name: Frequently Ask Question
-      url: '#'
-      weight: 2
-    - name: Privacy & Policy
-      url: '#'
-      weight: 3
     - name: Latest Article
-      url: '#'
-      weight: 4
+      url: 'blog'
+      weight: 2
 params:
-  address:
-    address: 23 Khan Niketon, Grand Street, NYK.
-    email: hello@example.com
-    openingHours: Open from 10am to 6pm (close at 5pm Sundays)
-    phone: +(448) 833 5272 332
+  # address:
+  #   address: 23 Khan Niketon, Grand Street, NYK.
+  #   email: hello@example.com
+  #   openingHours: Open from 10am to 6pm (close at 5pm Sundays)
+  #   phone: +(448) 833 5272 332
   blogPageURL: blog
   contactLink: contact
-  copyright: All right reserved copyright © Portio 2020
+  copyright: All right reserved copyright ©
   footerLogo: images/contact/widget-logo.png
   formspreeURL: YOUR FORMSPREE URL
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
   logo: images/site-navigation/logo.png
-  map:
-    APIkey: YOUR GOOGLE MAP API
-    latitude: '23.7783741'
-    longitude: '90.3746808'
-    pinImage: images/pin.png
+  # map:
+  #   APIkey: YOUR GOOGLE MAP API
+  #   latitude: '23.7783741'
+  #   longitude: '90.3746808'
+  #   pinImage: images/pin.png
   social:
-    - icon: fa-facebook-official
-      url: https://www.facebook.com/
+    - icon: fa-book
+      url: https://scholar.google.co.uk/citations?user=4L5fnNEAAAAJ&hl=en
       weight: 1
-    - icon: fa-linkedin-square
-      url: https://www.linkedin.com/
+    - icon: fa-pencil
+      url: https://www.researchgate.net/profile/Monica-Gerber
       weight: 2
-    - icon: fa-pinterest-square
-      url: https://www.pinterest.com/
-      weight: 3
     - icon: fa-twitter-square
-      url: https://twitter.com/
-      weight: 4
+      url: https://twitter.com/monica_gerber/
+      weight: 3

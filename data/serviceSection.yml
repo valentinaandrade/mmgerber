@@ -1,45 +1,23 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Research lines
 title: >
-  ## Creative Services
+  ## Rsearch lines
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Here you can see my research lines
 service:
   - content: >
-      #### UI/UX Design 
+      #### Tema 1 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Tema 1
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Tema 2 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Tema 2
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Tema 3
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Tema 3
     image: images/service/creative.svg
-  - content: >
-      #### Branding
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg

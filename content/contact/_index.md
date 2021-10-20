@@ -1,4 +1,4 @@
 ---
 breadcrumb: Contact
-title: Contact Me
+title: Contact
 ---

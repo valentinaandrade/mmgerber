@@ -1,13 +1,12 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Monica Gerber Plüss
 content: >
-  # I am here for your personal business
+  # Associate Professor, Diego Portales University (UDP)
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
-buttonURL: contact
+  My research focuses on the relationship between social justice and social psychology. I am interested in how ideological and motivational factors shape people’s attitudes towards justice, crime and punishment.
+buttonName: Publications
+buttonURL: blog
 image: images/hero/2960351.jpg
 videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+videoURL: https://www.youtube.com/watch?v=DStZ_VGG_-A
