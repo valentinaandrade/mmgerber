@@ -5,9 +5,9 @@ theme: portio-hugo
 title: Monica Gerber Plüss
 menu:
   main:
-    - name: Home
-      url: '#home'
-      weight: 1
+    # - name: Home
+    #   url: '#home'
+    #   weight: 1
     - name: About
       url: '#about'
       weight: 2
@@ -17,9 +17,9 @@ menu:
     - name: Resume
       url: '#resume'
       weight: 5
-    - name: Publications
-      url: '#blog'
-      weight: 6
+    # - name: Publications
+    #   url: '#blog'
+    #   weight: 6
     - name: Research lines
       url: '#service'
       weight: 7

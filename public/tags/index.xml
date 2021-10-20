@@ -1,36 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Portio</title>
+    <title>Tags on Monica Gerber Plüss</title>
     <link>https://monica-gerber.netlify.app/tags/</link>
-    <description>Recent content in Tags on Portio</description>
+    <description>Recent content in Tags on Monica Gerber Plüss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://monica-gerber.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://monica-gerber.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>plot</title>
-      <link>https://monica-gerber.netlify.app/tags/plot/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>Justice</title>
+      <link>https://monica-gerber.netlify.app/tags/justice/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://monica-gerber.netlify.app/tags/plot/</guid>
+      <guid>https://monica-gerber.netlify.app/tags/justice/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>https://monica-gerber.netlify.app/tags/r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>Police</title>
+      <link>https://monica-gerber.netlify.app/tags/police/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://monica-gerber.netlify.app/tags/r-markdown/</guid>
+      <guid>https://monica-gerber.netlify.app/tags/police/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>regression</title>
-      <link>https://monica-gerber.netlify.app/tags/regression/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>Violence</title>
+      <link>https://monica-gerber.netlify.app/tags/violence/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://monica-gerber.netlify.app/tags/regression/</guid>
+      <guid>https://monica-gerber.netlify.app/tags/violence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapuche</title>
+      <link>https://monica-gerber.netlify.app/tags/mapuche/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://monica-gerber.netlify.app/tags/mapuche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conflict</title>
+      <link>https://monica-gerber.netlify.app/tags/conflict/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://monica-gerber.netlify.app/tags/conflict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identities</title>
+      <link>https://monica-gerber.netlify.app/tags/identities/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://monica-gerber.netlify.app/tags/identities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retribution</title>
+      <link>https://monica-gerber.netlify.app/tags/retribution/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://monica-gerber.netlify.app/tags/retribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attitudes</title>
+      <link>https://monica-gerber.netlify.app/tags/attitudes/</link>
+      <pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://monica-gerber.netlify.app/tags/attitudes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information</title>
+      <link>https://monica-gerber.netlify.app/tags/information/</link>
+      <pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://monica-gerber.netlify.app/tags/information/</guid>
       <description></description>
     </item>
     
