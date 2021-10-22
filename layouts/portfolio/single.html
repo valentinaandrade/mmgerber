@@ -32,32 +32,32 @@
         </p>
         <div class="case-details-info">
           <div class="case-details-info-item">
-            <h5 class="text-light">Client</h5>
-            <p>{{ .Params.client }}</p>
+            <h5 class="text-light">Institution</h5>
+            <p>{{ .Params.institution }}</p>
           </div>
           <div class="case-details-info-item">
-            <h5>Service</h5>
-            <p>{{ .Params.service }}</p>
+            <h5>Rol</h5>
+            <p>{{ .Params.rol }}</p>
           </div>
           <div class="case-details-info-item">
             <h5>Date</h5>
-            <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
+            <p>{{ .PublishDate.Format "2006" }}</p>
           </div>
         </div>
         <div class="row mb-5">
           <div class="col-lg-6">
             <div class="case-details-service">
-              <h3>Challenge</h3>
+              <h3>Description</h3>
               <p>
-                {{ .Params.challenge }}
+                {{ .Params.description }}
               </p>
             </div>
           </div>
           <div class="col-lg-6">
             <div class="case-details-service">
-              <h3>Solution</h3>
+              <h3>Results</h3>
               <p>
-                {{ .Params.solution }}
+                {{ .Params.results }}
               </p>
             </div>
           </div>

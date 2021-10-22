@@ -32,7 +32,13 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+featureImage: images/allpost/allPost-8.jpg
+postImage: images/allpost/allPost-8.jpg
 ---
+
+- [Download bibliography](cite.bib)
+
+- [DOI](https://doi.org/10.1007/s11211-012-0174-7): https://doi.org/10.1007/s11211-012-0174-7
 
 # Objective
 

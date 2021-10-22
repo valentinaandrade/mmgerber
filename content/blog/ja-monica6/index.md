@@ -35,7 +35,13 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+featureImage: images/allpost/allPost-1.jpg
+postImage: images/allpost/allPost-1.jpg
 ---
+
+- [Download bibliography](cite.bib)
+
+- [DOI](https://doi.org/10.1093/bjc/azs024): https://doi.org/10.1093/bjc/azs024
 
 # Objective
 

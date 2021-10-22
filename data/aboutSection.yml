@@ -12,5 +12,5 @@ content: >
 button1Name: Last Article
 button2Name: Download CV
 button1Target: blog
-button2Target: contact
+button2Target: admin/cv.pdf
 image: images/about/about-img.jpg

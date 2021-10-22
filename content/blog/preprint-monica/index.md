@@ -39,7 +39,14 @@ url_project: ""
 url_slides: ""
 url_source: ''
 url_video: ''
+featureImage: images/allpost/allPost-2.jpg
+postImage: images/allpost/allPost-2.jpg
 ---
+
+- [Download bibliography](cite.bib)
+
+- [DOI](https://psyarxiv.com/cq87a/): https://psyarxiv.com/cq87a/
+
 
 ## Objectives
 

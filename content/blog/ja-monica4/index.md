@@ -33,7 +33,13 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+featureImage: images/allpost/allPost-3.jpg
+postImage: images/allpost/allPost-3.jpg
 ---
+
+- [Download bibliography](cite.bib)
+
+- [DOI](https://doi.org/10.1080/13218719.2015.1034060): https://doi.org/10.1080/13218719.2015.1034060
 
 # Summary
 

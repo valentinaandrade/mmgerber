@@ -33,7 +33,14 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+featureImage: images/allpost/allPost-4.jpg
+postImage: images/single-blog/feature-image.jpg
+
 ---
+
+- [Download bibliography](cite.bib)
+
+- [PDF](https://www.sciencedirect.com/science/article/pii/S0147176716300256)
 
 # Summary
 

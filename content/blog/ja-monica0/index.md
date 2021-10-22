@@ -34,5 +34,12 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+featureImage: images/allpost/allPost-6.jpg
+postImage: images/allpost/allPost-6.jpg
+
 ---
+
+- [Download bibliography](cite.bib)
+
+- [DOI](https://doi.org/10.1080/02109395.2020.1857582): https://doi.org/10.1080/02109395.2020.1857582
 

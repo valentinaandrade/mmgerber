@@ -1,57 +1,53 @@
 ---
 enable: true
-topTitle: My Resume
-title: >
-  ## Experience
+topTitle: Resume
+title: "## Experience"
 
-  Education 
-
-  Grants
-tab1Name: Education
-tab2Name: Grants
+tab1Name: "Academic positions"
+tab2Name: "Education"
 tab1Target: education
-tab2Target: experience
-
-education:
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+tab2Target: academic
 
 experience:
   - content: >
-      #### Umbrella co. 
+      ####  PhD Social Research Methods
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      London School of Economics and Political Science
+    time: 2012
   - content: >
-      #### Aperture Science 
+      #### MSc. Social Research Methods 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      London School of Economics and Political Science
+    time: 2008
   - content: >
-      #### ACME Inc. 
+      #### Bachelor Sociology
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
+      Universidad de Chile
+    time: 2005
+
+education:
   - content: >
-      #### LexCorp 
+      #### Associate Professor
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      Faculty of Psychology, Universidad Diego Portales
+    time: 2018-Present
+  - content: >
+      #### Director
+
+      MSc Social Psychology, Universidad Diego Portales
+    time: 2018-2020
+  - content: >
+      #### Associate Professor 
+
+      Department of Sociology, Universidad Diego Portales
+    time: 2014-2018
+  - content: >
+      #### Postdoctoral researcher
+
+      London School of Economics and Political Science and European Commission FP7 Project “Fiducia”
+    time: 2013
+  - content: >
+      #### Research officer
+
+      London School of Economics and Political Science and European Commission FP7 Project “Sensitive technologies and European Public Ethics”
+    time: 2010-2012

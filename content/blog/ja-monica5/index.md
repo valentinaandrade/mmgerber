@@ -37,7 +37,13 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+featureImage: images/allpost/allPost-2.jpg
+postImage: images/allpost/allPost-2.jpg
 ---
+
+- [Download bibliography](cite.bib)
+
+- [DOI](https://psycnet.apa.org/record/2018-14192-001): https://psycnet.apa.org/record/2018-14192-001
 
 # Objective
 
